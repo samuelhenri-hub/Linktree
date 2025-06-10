@@ -1,4 +1,17 @@
 body {
     background-color: black;
     margin: auto;
+    color: white;
+    font-family: sans-serif;
+}
+
+.foto {
+    width:100px;
+    border-radius: 50px;
+}
+
+main {
+    text-align: center;
+    background-color: rgb(54, 54, 54);
+    margin: 50px;
 }
